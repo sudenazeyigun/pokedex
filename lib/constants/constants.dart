@@ -9,6 +9,7 @@ class Constants {
 
   static TextStyle getTitleTextStyle() {
     return TextStyle(
+      
         color: Colors.white,
         fontWeight: FontWeight.bold,
         fontSize: _calculateFontSize(28));
